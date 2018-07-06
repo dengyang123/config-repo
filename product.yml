@@ -12,10 +12,7 @@ spring:
     port: 5672
     username: admin
     password: dengyang
-  redis:
-    host:192.168.21.38
-    port: 6379 
-
+ 
 eureka:
   client:
     service-url:
